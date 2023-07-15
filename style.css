@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+  }
+  
+  #game-board {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    background-color: #000;
+  }
+  
+  #snake {
+    width: 10px;
+    height: 10px;
+    background-color: #fff;
+  }
+  
+  #food {
+    width: 10px;
+    height: 10px;
+    background-color: #ff0;
+  }
+  
